@@ -109,6 +109,8 @@ Utilizing the Random Forest model to understand the multifaceted influences on t
 
 <img src="/images/6.png" alt="drawing" width="500"/>
 
+<img src="/images/7.png" alt="drawing" width="500"/>
+
 
 
 ## Setup for Jupyter Notebook
