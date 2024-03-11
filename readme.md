@@ -12,7 +12,7 @@ Scheduled project review date/time: March 10th 2024
 # Tanzania Water Wells AI Model Prediction Project
 #### Important Project Files:
 
-1. Group4.ipynb (Main Juypter document)
+1. index.ipynb (Main Juypter document)
 2. Presentation.pdf (Presentation)
 3. TrainingSetValues.csv (Main Data) TestSetValues.csv
 4. Optional Project Pdf
